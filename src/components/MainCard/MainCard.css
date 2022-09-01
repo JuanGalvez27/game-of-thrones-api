@@ -1,0 +1,9 @@
+.main-card {
+  
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin: 5px;
+  padding: 10px
+}

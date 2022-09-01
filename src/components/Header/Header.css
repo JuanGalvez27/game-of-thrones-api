@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.subtitle {
+  margin-top: 5px;
+}
